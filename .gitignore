@@ -1,0 +1,11 @@
+# API keys and configuration
+.env
+config.ini
+
+# Logs and cache
+logs/
+*.log
+__pycache__/
+
+# Environment
+venv/
